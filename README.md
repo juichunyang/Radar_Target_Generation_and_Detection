@@ -2,7 +2,7 @@
 
 This is the third project of Sensor Fusion Nanodegree of Udacity. I calculated the Range-Doppler Map (RDM) to ascertain the position and velocity of the target. The following picture is the layout of this project.
 
-<img src="https://github.com/CuteJui/Radar_Target_Generation_and_Detection/blob/main/readme_resource/layout.png">
+<img src="https://github.com/CuteJui/Radar_Target_Generation_and_Detection/blob/main/readme_resource/layout.png" width="800">
 
 ## Radar Specifications
 - Frequency of operation : 77 GHz
